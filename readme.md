@@ -1,6 +1,6 @@
 ## Random Nonlinear Dataset Generator
   
-This will quickly create a large amount of nonlinear datasets for students to use on assignments. Each dataset exists on a front-and-back PDF page. The front of the page is the scatterplot of the dataset. The back of the page is the enumerated dataset, a random explanatory value to use in making predictions, and a randomly generated ID. The random explanatory value comes from within the domain of the other explanatory values.
+This will quickly create a large amount of nonlinear datasets for students to use on assignments. Each dataset exists on a front-and-back PDF page. The front of the page is the scatterplot of the dataset. The back of the page is the enumerated dataset, a random explanatory value to use in making predictions, and a randomly generated ID. The random explanatory value comes from within the domain of the other explanatory values.  
 [Repl.It File]([https://replit.com/@YULitle/MakeRandomData#main.r)
 
 ### Function families provided
